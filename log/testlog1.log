@@ -1,0 +1,101 @@
+2021-01-20 21:19:54,633 [main] INFO ebanking - Url is opened
+2021-01-20 21:19:55,286 [main] INFO ebanking - Enter username
+2021-01-20 21:19:55,468 [main] INFO ebanking - Enter password
+2021-01-20 21:19:58,039 [main] INFO ebanking -  passed
+2021-01-20 22:48:58,086 [main] INFO ebanking - Url is opened
+2021-01-20 22:48:58,561 [main] INFO ebanking - Enter username
+2021-01-20 22:48:58,759 [main] INFO ebanking - Enter password
+2021-01-20 22:49:00,372 [main] INFO ebanking -  passed
+2021-01-20 23:20:13,716 [main] INFO ebanking - Url is opened
+2021-01-20 23:20:14,190 [main] INFO ebanking - Enter username
+2021-01-20 23:20:14,256 [main] INFO ebanking - Enter password
+2021-01-20 23:20:15,993 [main] INFO ebanking -  passed
+2021-01-20 23:20:36,388 [main] INFO ebanking - Url is opened
+2021-01-20 23:20:36,915 [main] INFO ebanking - Enter username
+2021-01-20 23:20:37,115 [main] INFO ebanking - Enter password
+2021-01-20 23:20:39,750 [main] INFO ebanking -  passed
+2021-01-20 23:22:28,781 [main] INFO ebanking - Url is opened
+2021-01-20 23:22:29,268 [main] INFO ebanking - Enter username
+2021-01-20 23:22:29,679 [main] INFO ebanking - Enter password
+2021-01-20 23:22:32,452 [main] INFO ebanking -  passed
+2021-01-21 13:26:54,184 [main] INFO ebanking - Url is opened
+2021-01-21 13:26:54,812 [main] INFO ebanking - Enter username
+2021-01-21 13:26:55,085 [main] INFO ebanking - Enter password
+2021-01-21 15:08:50,785 [main] INFO ebanking - username povided
+2021-01-21 15:08:50,985 [main] INFO ebanking - password povided
+2021-01-21 15:08:56,592 [main] INFO ebanking - Login passed
+2021-01-21 15:09:02,506 [main] INFO ebanking - username povided
+2021-01-21 15:09:02,734 [main] INFO ebanking - password povided
+2021-01-21 15:09:07,884 [main] INFO ebanking - username povided
+2021-01-21 15:09:08,092 [main] INFO ebanking - password povided
+2021-01-21 15:09:13,231 [main] INFO ebanking - username povided
+2021-01-21 15:09:13,397 [main] INFO ebanking - password povided
+2021-01-21 15:09:17,999 [main] INFO ebanking - Login passed
+2021-01-21 15:09:23,623 [main] INFO ebanking - username povided
+2021-01-21 15:09:23,801 [main] INFO ebanking - password povided
+2021-01-21 17:15:52,851 [main] INFO ebanking - Url is opened
+2021-01-21 17:15:53,678 [main] INFO ebanking - Enter username
+2021-01-21 17:15:54,145 [main] INFO ebanking - Enter password
+2021-01-21 17:16:06,645 [main] INFO ebanking - username povided
+2021-01-21 17:16:06,862 [main] INFO ebanking - password povided
+2021-01-21 17:16:11,861 [main] INFO ebanking - Login passed
+2021-01-21 17:16:17,599 [main] INFO ebanking - username povided
+2021-01-21 17:16:17,858 [main] INFO ebanking - password povided
+2021-01-21 17:16:22,790 [main] INFO ebanking - username povided
+2021-01-21 17:16:22,956 [main] INFO ebanking - password povided
+2021-01-21 17:16:27,617 [main] INFO ebanking - username povided
+2021-01-21 17:16:27,758 [main] INFO ebanking - password povided
+2021-01-21 17:16:32,467 [main] INFO ebanking - Login passed
+2021-01-21 17:16:37,854 [main] INFO ebanking - username povided
+2021-01-21 17:16:38,009 [main] INFO ebanking - password povided
+2021-01-21 17:20:13,501 [main] INFO ebanking - Username is provided
+2021-01-21 17:20:13,888 [main] INFO ebanking - Paasword is provided
+2021-01-21 17:20:32,159 [main] INFO ebanking - validation started........
+2021-01-21 17:20:32,209 [main] INFO ebanking - test case passed....
+2021-01-21 17:26:33,896 [main] INFO ebanking - Url is opened
+2021-01-21 17:26:34,985 [main] INFO ebanking - Enter username
+2021-01-21 17:26:35,280 [main] INFO ebanking - Enter password
+2021-01-21 17:26:49,201 [main] INFO ebanking - username povided
+2021-01-21 17:26:49,516 [main] INFO ebanking - password povided
+2021-01-21 17:26:54,695 [main] INFO ebanking - Login passed
+2021-01-21 17:27:00,869 [main] INFO ebanking - username povided
+2021-01-21 17:27:01,112 [main] INFO ebanking - password povided
+2021-01-21 17:27:05,598 [main] INFO ebanking - username povided
+2021-01-21 17:27:05,757 [main] INFO ebanking - password povided
+2021-01-21 17:27:10,455 [main] INFO ebanking - username povided
+2021-01-21 17:27:10,627 [main] INFO ebanking - password povided
+2021-01-21 17:27:14,738 [main] INFO ebanking - Login passed
+2021-01-21 17:27:19,434 [main] INFO ebanking - username povided
+2021-01-21 17:27:19,577 [main] INFO ebanking - password povided
+2021-01-21 17:27:31,835 [main] INFO ebanking - Username is provided
+2021-01-21 17:27:32,283 [main] INFO ebanking - Paasword is provided
+2021-01-21 17:27:52,759 [main] INFO ebanking - validation started........
+2021-01-21 17:27:52,816 [main] INFO ebanking - test case passed....
+2021-01-21 17:30:33,268 [main] INFO ebanking - username povided
+2021-01-21 17:30:33,494 [main] INFO ebanking - password povided
+2021-01-21 17:30:39,705 [main] INFO ebanking - username povided
+2021-01-21 17:30:39,881 [main] INFO ebanking - password povided
+2021-01-21 17:30:45,135 [main] INFO ebanking - username povided
+2021-01-21 17:30:45,303 [main] INFO ebanking - password povided
+2021-01-21 17:30:59,101 [main] INFO ebanking - Url is opened
+2021-01-21 17:30:59,742 [main] INFO ebanking - Enter username
+2021-01-21 17:31:00,076 [main] INFO ebanking - Enter password
+2021-01-26 21:55:57,276 [TestNG-suites-1] INFO ebanking - Url is opened
+2021-01-26 21:55:57,799 [TestNG-suites-1] INFO ebanking - Enter username
+2021-01-26 21:55:58,057 [TestNG-suites-1] INFO ebanking - Enter password
+2021-01-26 21:56:11,341 [TestNG-suites-1] INFO ebanking - username povided
+2021-01-26 21:56:11,560 [TestNG-suites-1] INFO ebanking - password povided
+2021-01-26 21:56:16,659 [TestNG-suites-1] INFO ebanking - Login passed
+2021-01-26 21:56:22,293 [TestNG-suites-1] INFO ebanking - username povided
+2021-01-26 21:56:22,471 [TestNG-suites-1] INFO ebanking - password povided
+2021-01-26 21:56:27,475 [TestNG-suites-1] INFO ebanking - username povided
+2021-01-26 21:56:27,686 [TestNG-suites-1] INFO ebanking - password povided
+2021-01-26 21:56:34,023 [TestNG-suites-1] INFO ebanking - username povided
+2021-01-26 21:56:34,257 [TestNG-suites-1] INFO ebanking - password povided
+2021-01-26 21:56:41,284 [TestNG-suites-1] INFO ebanking - Login passed
+2021-01-26 21:56:46,976 [TestNG-suites-1] INFO ebanking - username povided
+2021-01-26 21:56:47,201 [TestNG-suites-1] INFO ebanking - password povided
+2021-01-26 21:57:01,920 [TestNG-suites-1] INFO ebanking - Username is provided
+2021-01-26 21:57:02,315 [TestNG-suites-1] INFO ebanking - Paasword is provided
+2021-01-26 21:57:23,078 [TestNG-suites-1] INFO ebanking - validation started........
+2021-01-26 21:57:23,132 [TestNG-suites-1] INFO ebanking - test case passed....
